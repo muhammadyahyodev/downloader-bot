@@ -1,4 +1,9 @@
+#output
 /node_modules
 /dist
 
+# enviroments
 .env
+
+#
+pnpm-lock.yaml
